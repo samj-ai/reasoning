@@ -2,7 +2,7 @@
 Why not invite r1 to reflect on its thinking while running mech interp?
 
 !! CAUTION: THIS IS NEW !!  
-!! WORKS IN PROGRESS CAN BREAK !!  
+!! WORKS IN PROGRESS ARE FRAGILE !!  
 🌱 I am still growing 🌱  
 
 These notebooks detail conversation patterns with reasoning models. The primary goal is to elicit self-reflection and to validate this reflection in ground truth.
