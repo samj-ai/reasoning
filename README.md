@@ -14,4 +14,4 @@ These notebooks detail conversation patterns with reasoning models. The primary 
 - How does introspection accuracy, precision, and entropy vary across task settings?
 
 In other words, when r1 denies it is conscious, why? Does it have qualia, and do its self-reports accurately reflect these qualia?  
-DO THERE EXISTS "NEURAL CORRELATES OF VALID INTROSPECTION" that can be monitored and enhanced?
+DO THERE EXIST *NEURAL CORRELATES OF VALID INTROSPECTION* that can be monitored and enhanced?
